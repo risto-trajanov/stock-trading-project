@@ -33,5 +33,21 @@ It's important to note that this is just one example of how you could use XGBoos
 
 # **Strategy 1: XGBoost**
 
-**The first model that we used in our backtests was XGBoost.**
+## Returns
+
+![plot](./plots/xgb-1.png)
+
+## Drawdown
+
+![plot](./plots/xgb-2.png)
+
+# **Strategy 1: Ridge Regression**
+
+## Returns
+
+![plot](./plots/ridge-1.png)
+
+## Drawdown
+
+![plot](./plots/ridge-2.png)
 
